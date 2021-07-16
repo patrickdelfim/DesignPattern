@@ -9,7 +9,7 @@ O Observador é o objeto que esta aguardando uma mensagem do sujeito com mudanca
 <h2>Exemplo:</h2>
 
 
-![ObserverPattern](./images/ObserverPattern.png)
+![ObserverPattern](./image/ObserverPattern.png)
   
   
   <h3>Sujeito emissor de notificacao: </h3>
